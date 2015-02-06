@@ -37,7 +37,7 @@ $_lang["why.create.account"] = "Quels sont les avantages d'un compte ETS2MP ?<br
 $_lang["cookies.warning"] = "Ce site utilise les <a href=\"http://fr.wikipedia.org/wiki/Cookie_(informatique)\">cookies</a>. En continuant de surfer sur le site, vous approuvez l'utilisation des cookies.";
 $_lang["forum"] = "Forum";
 $_lang["cannot.create.account.when.logged"] = "Vous ne pouvez pas créer de compte en étant connecté";
-$_lang["successfully.registered"] = "Vous avez été enregistré avec succès! Regardez vos e-mails pour activer votre compte. Mail: <b>{0}</b>";
+$_lang["successfully.registered"] = "Vous avez été enregistré avec succès ! Regardez vos e-mails pour activer votre compte. Mail: <b>{0}</b>";
 $_lang["error.unknown"] = "Erreur inconnue";
 $_lang["credentials.taken"] = "Ce nom de compte, ce mail ou cet ID Steam est déjà pris.";
 $_lang["error.no.steam.data"] = "Pour créer un compte ETS2MP, vous devez avoir ETS2 dans votre librairie de jeux Steam. Si vous l'avez, vérifiez que votre compte est public.";
@@ -57,7 +57,7 @@ $_lang["forgot.password.summary"] = "Vous avez oublié votre mot de passe ? Entr
 $_lang["reminder.button"] = "Rappel de mot de passe";
 $_lang["reset.password"] = "Réinitialiser le mot de passe";
 $_lang["password.reminder.mail.title"] = "Demander le rappel de mot de passe.";
-$_lang["password.reminder.content"] = "Bonjour.\n\nQuelqu'un avec l'adresse IP {0} a demandé une réinitialisation de mot de passe pour votre compte ETS2MP.\n\nPour réinitialiser votre mot de passe, cliquez sur ce lien : {1}.\nSi ce n'est pas vous qui avez fait la demande, ignorez cet e-mail.\n\nCordialement\nL'équipe ETS2MP";
+$_lang["password.reminder.content"] = "Bonjour.\n\nQuelqu'un avec l'adresse IP {0} a demandé une réinitialisation de mot de passe pour votre compte ETS2MP.\n\nPour réinitialiser votre mot de passe, cliquez sur ce lien: {1}\nSi ce n'est pas vous qui avez fait la demande, ignorez cet e-mail.\n\nCordialement\nL'équipe ETS2MP";
 $_lang["new.password.mail.title"] = "Votre nouveau mot de passe.";
 $_lang["new.password.mail.content"] = "Bonjour.\n\nVoici votre nouveau mot de passe : {0}\n\nN'oubliez pas de le changer immédiatement après vous être connecté.\n\nCordialement\nL'équipe ETS2MP";
 $_lang["account.activated"] = "Votre compte a été activé avec succès.";
